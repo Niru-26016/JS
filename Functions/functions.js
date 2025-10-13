@@ -15,7 +15,7 @@ function orderFood(foodType) {
 }
 console.log(orderFood("idly"));
 
-//2. Q1 using arrow function
+//3. Q1 using arrow function
 
 playGame = (gameName) => {
   return `playing ${gameName}`;
