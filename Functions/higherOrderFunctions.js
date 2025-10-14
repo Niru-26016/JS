@@ -1,5 +1,5 @@
 // higher Order Function 
-// Passing function as parameter for another function 
+// Passing function as argument for another function 
 
 function multiply(listOfNum, num) {
   newList = [];
