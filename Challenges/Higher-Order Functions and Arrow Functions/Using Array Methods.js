@@ -1,0 +1,1 @@
+// Write a function squareNumbers(arr) using map() and arrow functions
